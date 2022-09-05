@@ -1,0 +1,196 @@
+.header{    
+    background-image: url(picss/header.jpg);
+    width:100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.text{
+    padding-top : 250px;
+    margin: 0;
+}
+.text h1{
+    font-size:  100px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+}
+.text p{
+    font-size: 50px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+    
+}
+.sec2{
+    padding: 30px;
+}
+.sec2 p{
+    text-align: center;
+    font-size: x-large;
+    color: #7b7b7b;
+    margin: 0;
+}
+.sec2 span{
+    color:#333;
+}
+.sec3 {
+    width: 100%;
+    float: left;
+    text-align: justify;
+    background-color: #f2f2f2;
+    
+}
+.sec3 p{
+    text-align: center;
+    font-size: 25px;
+    background-color: #f2f2f2;
+    color: black;
+}
+
+.sec3 .s1 {
+    width: 25%;
+    float: left;
+    text-align: center;
+
+    
+}
+.s1 pre{
+    text-align: justify;
+    font-size: 17px;
+    margin: 0px;
+    
+}
+.sec3 .s2 {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.s2 pre{
+    text-align: center;
+    font-size: 17px;
+    margin: 0px
+}
+.sec3 .s3 {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.s3 pre{
+    text-align: center;
+    font-size: 17px;
+    margin: 0px
+  
+}
+.sec3 .s4 {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.s4 pre{
+    text-align: center;
+    font-size: 17px;
+    margin: 0px;
+    width: fit-content;
+    
+}
+.sec4{
+    text-align: center;
+    clear: both;
+    background-color:#7b7b7b;
+    padding: 20px;
+}
+.sec4 p{
+    text-align: center;
+    font-size: larger;
+}
+
+.sec4 .boot{
+    width: 33.333%;
+    float: left;
+    background-color: #7b7b7b;
+    text-align: center;
+    padding: -10px;
+}
+.sec4 .word{  
+    width: 33.333%;
+    float: left;
+    text-align: center;
+    background-color: #7b7b7b;
+}   
+.sec4 .java{
+    width: 33.333%;
+    float: left;
+    text-align: center;
+    background-color: #7b7b7b;
+} 
+
+.sec5{
+    background-image: url(picss/portfolio-bg.jpg);
+    width: 100%;
+    height: 400px;
+    margin: 0;
+    clear: both;
+}
+.sec5 p{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    padding-top: 60px;
+    margin-bottom: 1%;
+}
+.works{
+    padding: 30px;
+}
+.wr3{ 
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+}
+.wr2{
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+}
+.wr1{
+    float: left;
+    width: 33.3333%;
+    text-align: center;
+}
+.sec6{
+    background-color: #f2f2f2;
+    text-align: center;
+    color:#7b7b7b;
+    padding: 15px;
+
+}
+.sec6 span{ 
+    color: #333;
+}
+.sec6 p{
+    text-align: center;
+    margin: 0%;
+}
+.sec7{
+    background-color:#e0e0e0;
+    
+    text-align: justify;
+    
+
+}
+.about{
+    font-size: 13px ;
+    padding: 20px;
+}
+.sec7 p{
+    padding: 10px;
+    text-align: center;
+    margin:0%;
+    
+}
+.sec8{
+
+}
+
+
